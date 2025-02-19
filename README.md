@@ -1,9 +1,3 @@
----
-title: Etau - 1.1.1
-summary: The Etau Project README.
-layout: home
-nav_order: 1
----
 ![pub version](https://img.shields.io/pub/v/etau.svg?style=flat-square)
 
 ## Documentation

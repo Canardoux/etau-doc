@@ -7,8 +7,9 @@ rm -rf _site
 #cp ../flutter_sound/README.md pages/fs
 
 
-cp index.md README
-gsed -i '1,6d' README
+#cp index.md README
+#gsed -i '1,6d' README
+
 
 
 
@@ -20,6 +21,9 @@ gsed -i '1,6d' README
 #    echo "Error"
 #    exit -1
 #fi
+
+echo "Running cp.sh"
+bin/cp.sh
 
 echo "Running api.sh"
 bin/api.sh
