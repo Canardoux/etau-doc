@@ -3,24 +3,6 @@ title: Tauweb
 parent: "The τ family"
 nav_order: 2
 ---
-
-For general information about developing packages, see the Dart guide for
-[creating packages](https://dart.dev/guides/libraries/create-packages)
-and the Flutter guide for
-[developing packages and plugins](https://flutter.dev/to/develop-packages).
--->
-
-# Tauweb
-
-`Tauweb` is an [Etau](https://pub.dev/packages/etau) implementation for Flutter Web.
-
-[Etau](https://pub.dev/packages/etau) is the interface and this is what see the App.
-So, there are not many things to say about `Tauweb` because this is just an implementation.
-The only verb used by the App is `tau()`, which gives the implementation.
-
-You can see all the [Etau project documentation](https://tau.canardoux.xyz/etau-README.html) here.
-
-Example
 ```dart
 import 'package:etau/etau.dart';
 import 'package:tau_web/tau_web.dart';
