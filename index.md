@@ -1,5 +1,5 @@
 ---
-title: Etau - 1.1.1
+title: Etau - 0.17.8
 summary: The Etau Project README.
 layout: home
 nav_order: 1
