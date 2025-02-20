@@ -1,5 +1,5 @@
 ---
-title: Etau - 0.17.14
+title: Etau - 0.17.15
 summary: The Etau Project README.
 layout: home
 nav_order: 1
@@ -68,7 +68,7 @@ It alway access `Etau` which is the interface. This allows the App to have a uni
 - [Simple basic examples](https://github.com/Canardoux/etau/tree/main/example/lib/BasicEx) showing how to use `Etau`
 - A port of all the [Mozilla examples](https://github.com/Canardoux/etau/tree/main/example/lib/MozillaEx), using Dart instead of JS ofcourse. These Mozilla examples are also very simple, and can be looked at instead of our basic examples.
 
-You can run a live view of these examples [here](https://etau.canardoux.xyz/tau/etau/live/index.html).
+You can run a live view of these examples [here](https://etau.canardoux.xyz/live/index.html).
 
 ## License
 

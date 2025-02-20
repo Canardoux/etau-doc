@@ -5,6 +5,10 @@ summary: "We need you!"
 nav_order: 6
 ---
 
+
+## Etau is a free and Open Source project. We need you!
+
+
 # TODO
 ------------------
 

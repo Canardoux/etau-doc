@@ -11,7 +11,7 @@ cp ../etau/README.md README.md
 ed index.md  >/dev/null << END
 1i
 ---
-title: Etau - 0.17.14
+title: Etau - 0.17.15
 summary: The Etau Project README.
 layout: home
 nav_order: 1
@@ -48,7 +48,7 @@ ed tau/family/taudio.md  >/dev/null << END
 ---
 title: Taudio
 parent: "The τ family"
-nav_order: 4
+nav_order: 2
 ---
 .
 w
@@ -75,7 +75,7 @@ ed tau/family/tauweb.md  >/dev/null << END
 ---
 title: Tauweb
 parent: "The τ family"
-nav_order: 2
+nav_order: 3
 ---
 .
 w

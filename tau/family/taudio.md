@@ -1,7 +1,7 @@
 ---
 title: Taudio
 parent: "The τ family"
-nav_order: 4
+nav_order: 2
 ---
 ![pub version](https://img.shields.io/pub/v/taudio.svg?style=flat-square)
 ![Taudio](https://taudio.canardoux.xyz/images/Logotype-primary.png)
