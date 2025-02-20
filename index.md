@@ -5,7 +5,7 @@ layout: home
 nav_order: 1
 ---
 ![pub version](https://img.shields.io/pub/v/etau.svg?style=flat-square)
-[Etau](https://etau.canardoux.xyz/images/EtauBanner.png)
+![Etau](https://etau.canardoux.xyz/images/EtauBanner.png)
 
 ## Documentation
 
