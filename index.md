@@ -1,15 +1,16 @@
 ---
-title: Etau - 0.17.11
+title: Etau - 0.17.12
 summary: The Etau Project README.
 layout: home
 nav_order: 1
 ---
 ![pub version](https://img.shields.io/pub/v/etau.svg?style=flat-square)
+[Etau](https://tau-ver.canardoux.xyz/images/EtauBanner.png)
 
 ## Documentation
 
-- ## Etau user : your doc [is here](https://etau.vercel.app/)
-- ## The CHANGELOG [is here](https://etau.vercel.app/tau/CHANGELOG.html)
+- ## Etau user : your doc [is here](https://etau.canardoux.xyz/)
+- ## The CHANGELOG [is here](https://etau.canardoux.xyz/tau/CHANGELOG.html)
 
 ## Etau stands for Ukraine!
 
@@ -90,9 +91,7 @@ Actually this is only a place holder.
 
 ## We need help
 
-{% include important.html content="
 We greatly appreciate any contributions to the project which can be as simple as providing feedback on the API or documentation.
-"%}
 
 Actually, I am almost alone to maintain and develop three important projects :
 - Flutter Sound 9.x
@@ -103,7 +102,4 @@ This is too much work on my shoulders. We desesperatly need at least one other d
 
 ## Thanks
 
-{% include note.html content="
-### If you like my work, you can click on the `Thumb up` button of the top of the [pub.dev page](https://pub.dev/packages/etau).
-This is free and this will reassure me that **I do not spend most of my life for nobody**.
-"%}
+### If you like my work, you can click on the `Thumb up` button of the top of the [pub.dev page](https://pub.dev/packages/etau) This is free and this will reassure me that **I do not spend most of my life for nobody**.
